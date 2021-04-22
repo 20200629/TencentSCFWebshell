@@ -1,2 +1,2 @@
 ### b64-godzilla base SCF&&COS
-#### Nothing
+#### Cookie持久化,腾讯云函数.
